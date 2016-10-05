@@ -22,13 +22,13 @@ PauseBreak = :wq\n
 
 ---
 
-Insert = :!mkdir -p 
+End = :!mkdir -p 
 
 ---
 
-Delete = Previous song
+Insert = Previous song
 
-End = Play/pause toggle
+Home = Play/pause toggle
 
 PgUp = Next song
 
