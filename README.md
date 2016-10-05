@@ -12,18 +12,35 @@ You need Windows and [Drivers](http://www.vpro-gaming.com/downloads/drivers/V500
 
 CapsLock = ESC
 
+---
+
 PrintScreen = :w\n
+
 ScrollLock = :q\n
+
 PauseBreak = :wq\n
+
+---
 
 Insert = :!mkdir -p 
 
+---
+
 Delete = Previous song
+
 End = Play/pause toggle
+
 PgUp = Next song
+
+---
 
 AltGr = Super+Q
 
+---
+
 RightSuper = Ctrl+B (Tmux)
+
 RightApp = ESC + Ctrl+P (CtrlP)
+
 RightCtrl = ESC + Ctrl+W (Vim navigation)
+
